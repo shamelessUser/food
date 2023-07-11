@@ -58,7 +58,7 @@ window.addEventListener("DOMContentLoaded", function () {
             hours,
             minutes,
             seconds
-        }
+        };
     }
 
     function setZero (n) {
