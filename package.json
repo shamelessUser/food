@@ -1,0 +1,27 @@
+{
+  "name": "food-project",
+  "version": "1.0.9",
+  "description": "food project",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json --port 8888"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamelessUser/food.git"
+  },
+  "keywords": [
+    "food",
+    "blog",
+    "frony-end"
+  ],
+  "author": "aMa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamelessUser/food/issues"
+  },
+  "homepage": "https://github.com/shamelessUser/food#readme",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
